@@ -3,3 +3,5 @@
 
 Please refer to the following link:
 https://github.com/TKuehnast/McMurGut
+
+McMurGut will be made publicity available with manuscript submission.
